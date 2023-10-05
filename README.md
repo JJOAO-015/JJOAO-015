@@ -1,6 +1,6 @@
 ### Olá eu sou o João Luiz 🙋🏼‍♂️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaoluiz_011)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joao_luiz011)
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JJOAO-015&show_icons=true&theme=radical)
 
