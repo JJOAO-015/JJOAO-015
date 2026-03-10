@@ -28,41 +28,23 @@
 
 <h2 align="center">🚀 Minha Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,fastify,prisma,html,css,java,figma,git,github,vscode" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,html,css,java,figma,git,github,vscode" alt="My Skills" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+                  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+                          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+                          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+                  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+
+
 </div>
 
 <br />
 
-<h2 align="center">📊 Minhas Estatísticas e Projetos</h2>
+## 📊 Minhas Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JJOAO-015&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JJOAO-015&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/JJOAO-015/Web-Clima">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JJOAO-015&repo=Web-Clima&theme=dracula" width="400" alt="Projeto Web Clima" />
-  </a>
-  <a href="https://github.com/JJOAO-015/forumhub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JJOAO-015&repo=forumhub&theme=dracula" width="400" alt="Projeto Forumhub" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JJOAO-015&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=JJOAO-015&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJOAO-015&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" />
-</div>
+![streak graph](https://streak-stats.demolab.com?user=JJOAO-015&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5)
 
 <br />
 
